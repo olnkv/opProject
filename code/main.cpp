@@ -1,3 +1,4 @@
+//cd /c/Users/Edwin/Desktop/opProject/code
 #include "func.h"
 
 int main()
@@ -43,7 +44,7 @@ int main()
             if (nextChoice == 3)
                 SortFileDq(dqStud);
         }
-            
+
         if (choice == 5)
             CreateFile();
         if (choice == 4)
